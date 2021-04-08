@@ -1,0 +1,8 @@
+This is my First assignment in Git.
+
+Steps :
+       1.git init
+       2.git add<file>....
+       3.git status
+
+ok Thanks
